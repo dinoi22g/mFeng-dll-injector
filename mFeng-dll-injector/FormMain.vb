@@ -1,7 +1,7 @@
 ﻿Imports System.IO
 Imports System.Runtime.InteropServices
 
-Public Class Form1
+Public Class FormMain
     Dim Choose As Integer
     Dim GetDate, hour, min, sec As String
     Dim pname As Process

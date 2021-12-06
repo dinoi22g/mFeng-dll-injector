@@ -35,14 +35,14 @@
         On Error Resume Next
         If ListBox1.Items.Count >= 1 Then SaveListBox(ListBox1)
         Me.Hide()
-        Form1.Enabled = True
+        FormMain.Enabled = True
     End Sub
 
     Private Sub FormList_FormClosing(ByVal sender As Object, ByVal e As System.Windows.Forms.FormClosingEventArgs) Handles Me.FormClosing
         On Error Resume Next
         If ListBox1.Items.Count >= 1 Then SaveListBox(ListBox1)
         Me.Hide()
-        Form1.Enabled = True
+        FormMain.Enabled = True
     End Sub
 
     Private Sub FormList_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load

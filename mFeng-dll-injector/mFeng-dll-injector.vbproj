@@ -10,7 +10,7 @@
     <OutputType>WinExe</OutputType>
     <StartupObject>DLL_Injector.My.MyApplication</StartupObject>
     <RootNamespace>DLL_Injector</RootNamespace>
-    <AssemblyName>DLL Injector</AssemblyName>
+    <AssemblyName>mFeng-dll-injector</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
@@ -23,7 +23,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>DLL Injector.xml</DocumentationFile>
+    <DocumentationFile>mFeng-dll-injector.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
@@ -33,7 +33,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>DLL Injector.xml</DocumentationFile>
+    <DocumentationFile>mFeng-dll-injector.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
@@ -89,11 +89,11 @@
     </Compile>
     <Compile Include="ListView_Control.vb" />
     <Compile Include="WindowsAPI.vb" />
-    <Compile Include="Form1.vb">
+    <Compile Include="FormMain.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.vb">
-      <DependentUpon>Form1.vb</DependentUpon>
+    <Compile Include="FormMain.Designer.vb">
+      <DependentUpon>FormMain.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -114,8 +114,8 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.vb</DependentUpon>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormList.resx">
       <DependentUpon>FormList.vb</DependentUpon>
