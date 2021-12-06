@@ -1,0 +1,29 @@
+C:\Users\User\Desktop\DLL注入器\DLL注入器\bin\Debug\DLL注入器.exe
+C:\Users\User\Desktop\DLL注入器\DLL注入器\bin\Debug\DLL注入器.pdb
+C:\Users\User\Desktop\DLL注入器\DLL注入器\bin\Debug\DLL注入器.xml
+C:\Users\User\Desktop\DLL注入器\DLL注入器\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\DLL注入器\DLL注入器\obj\x86\Debug\DLL注入器.Form1.resources
+C:\Users\User\Desktop\DLL注入器\DLL注入器\obj\x86\Debug\DLL注入器.Resources.resources
+C:\Users\User\Desktop\DLL注入器\DLL注入器\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\DLL注入器\DLL注入器\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\DLL注入器\DLL注入器\obj\x86\Debug\DLL注入器.exe
+C:\Users\User\Desktop\DLL注入器\DLL注入器\obj\x86\Debug\DLL注入器.xml
+C:\Users\User\Desktop\DLL注入器\DLL注入器\obj\x86\Debug\DLL注入器.pdb
+C:\Users\User\Desktop\DLL注入器\DLL注入器\obj\x86\Debug\DLL注入器.FormList.resources
+C:\Users\User\Desktop\DLL注入器\DLL注入器\obj\x86\Debug\DLL注入器.FormLoadDll.resources
+G:\程式設計\Visual Basic.NET\DLL注入器\DLL注入器\obj\x86\Debug\DLL注入器.exe
+G:\程式設計\Visual Basic.NET\DLL注入器\DLL注入器\obj\x86\Debug\DLL注入器.xml
+G:\程式設計\Visual Basic.NET\DLL注入器\DLL注入器\obj\x86\Debug\DLL注入器.pdb
+G:\程式設計\Visual Basic.NET\DLL注入器\DLL注入器\bin\Debug\DLL注入器.exe
+G:\程式設計\Visual Basic.NET\DLL注入器\DLL注入器\bin\Debug\DLL注入器.pdb
+G:\程式設計\Visual Basic.NET\DLL注入器\DLL注入器\bin\Debug\DLL注入器.xml
+G:\程式設計\Visual Basic.NET\DLL注入器\DLL注入器\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\程式設計\Visual Basic.NET\DLL注入器\DLL注入器\obj\x86\Debug\DLL注入器.Form1.resources
+G:\程式設計\Visual Basic.NET\DLL注入器\DLL注入器\obj\x86\Debug\DLL注入器.FormList.resources
+G:\程式設計\Visual Basic.NET\DLL注入器\DLL注入器\obj\x86\Debug\DLL注入器.FormLoadDll.resources
+G:\程式設計\Visual Basic.NET\DLL注入器\DLL注入器\obj\x86\Debug\DLL注入器.Resources.resources
+G:\程式設計\Visual Basic.NET\DLL注入器\DLL注入器\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\程式設計\Visual Basic.NET\DLL注入器\DLL注入器\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\程式設計\Visual Basic.NET\DLL注入器\DLL注入器\obj\x86\Debug\DLL注入器.exe
+J:\程式設計\Visual Basic.NET\DLL注入器\DLL注入器\obj\x86\Debug\DLL注入器.xml
+J:\程式設計\Visual Basic.NET\DLL注入器\DLL注入器\obj\x86\Debug\DLL注入器.pdb
